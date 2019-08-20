@@ -21,6 +21,9 @@ const example = {
 let interns = {
   id: 0, email:'mmelloy0@psu.edu', first_name: 'Mitzi', gender:'F',
   id: 1, email:'kdiben1@tinypic.com', first_name:'Kennan', gender:'M',
+  id: 2, email:'kmummery2@wikimedia.org', first_name: 'Keven', gender: 'M',
+  id: 3, email:'gmartinson3@illinois.edu', first_name: 'Gannie', gender: 'M',
+  id: 4, email:'adaine5@samsung.com', first_name: 'Antonietta', gender: 'F',
 }
 
 // ==== Challenge 2: Reading Object Data ==== 
